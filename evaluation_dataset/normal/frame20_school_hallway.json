@@ -1,0 +1,64 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1474.9265091863517,
+          770.0848917322835
+        ],
+        [
+          1644.1665846456694,
+          1779.3327591863517
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1617.6225393700788,
+          266.5887467191601
+        ],
+        [
+          1645.77624671916,
+          422.8284940944882
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1656.6440288713911,
+          254.6751968503937
+        ],
+        [
+          1680.5121391076116,
+          376.78395669291336
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame20_school_hallway.jpg",
+  "imageData": null,
+  "imageHeight": 1964,
+  "imageWidth": 3024
+}

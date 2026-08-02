@@ -1,0 +1,28 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "__ignore__",
+      "points": [
+        [
+          982.3391568241469,
+          875.2255577427821
+        ],
+        [
+          1519.094816272966,
+          1346.795029527559
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame19_drive_thru.jpg",
+  "imageData": null,
+  "imageHeight": 1964,
+  "imageWidth": 3024
+}

@@ -1,0 +1,46 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1747.1747047244096,
+          865.352280183727
+        ],
+        [
+          1879.925688976378,
+          1056.379183070866
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1229.0275590551182,
+          549.5099245406824
+        ],
+        [
+          1292.2554954068241,
+          701.3615485564304
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame02_warehouse.jpg",
+  "imageData": null,
+  "imageHeight": 1964,
+  "imageWidth": 3024
+}

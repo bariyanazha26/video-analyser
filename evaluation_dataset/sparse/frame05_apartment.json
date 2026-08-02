@@ -1,0 +1,28 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          959.7232709390862,
+          289.5774111675127
+        ],
+        [
+          1133.0953362944163,
+          966.558296319797
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame05_apartment.jpg",
+  "imageData": null,
+  "imageHeight": 1898,
+  "imageWidth": 2529
+}

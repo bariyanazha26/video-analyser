@@ -1,0 +1,28 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1561.4689140419948,
+          1459.2970800524934
+        ],
+        [
+          1612.6705216535433,
+          1620.7554133858268
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame01_car_park.jpg",
+  "imageData": null,
+  "imageHeight": 1964,
+  "imageWidth": 3024
+}

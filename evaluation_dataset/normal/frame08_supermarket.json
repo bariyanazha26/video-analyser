@@ -1,0 +1,82 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1233.190124671916,
+          573.972687007874
+        ],
+        [
+          1357.6467355643044,
+          1002.5016404199475
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1697.5212434383202,
+          353.88984580052494
+        ],
+        [
+          1868.8426017060367,
+          1058.9936023622047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2188.47842847769,
+          541.9332349081365
+        ],
+        [
+          2275.3489173228345,
+          1035.033218503937
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2719.1952919947503,
+          529.548064304462
+        ],
+        [
+          2846.6456692913384,
+          995.3760662729659
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame08_supermarket.jpg",
+  "imageData": null,
+  "imageHeight": 1964,
+  "imageWidth": 3024
+}

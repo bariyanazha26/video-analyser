@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv-yolox/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+
+# Model weights
+*.pt
+*.pth
+
+# Generated videos
+video_benchmark/annotated/
+YOLOX/YOLOX_outputs/
+
+# Optional large folders
+frames/
+selected_frames/
+
+# Generated benchmark videos
+video_benchmark/annotated/
+
+# Generated benchmark results (optional)
+video_benchmark/results/
+
+# YOLOX demo outputs
+YOLOX/YOLOX_outputs/
+
+# Frame extraction outputs
+frames/
+selected_frames/
+annotated_frames/
+
+# General outputs
+output/
+
+# YOLOX
+YOLOX/weights/
+YOLOX/YOLOX_outputs/
+
+# Evaluation outputs
+evaluation/results/
+
+# Benchmark outputs
+video_benchmark/results/
+video_benchmark/annotated/
+
+# Benchmark videos
+video_benchmark/videos/

@@ -1,0 +1,136 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1950.9251148293963,
+          1007.5049212598425
+        ],
+        [
+          2029.8395669291338,
+          1224.7990485564305
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2125.629839238845,
+          1104.23843503937
+        ],
+        [
+          2196.875328083989,
+          1327.4073162729658
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2277.378937007874,
+          1135.1090879265091
+        ],
+        [
+          2369.170685695538,
+          1380.4236384514436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2714.7046423884512,
+          1017.1936515748031
+        ],
+        [
+          2792.28625328084,
+          1433.829560367454
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2534.7095636482936,
+          1346.4977034120734
+        ],
+        [
+          2620.0626640419946,
+          1476.0088582677165
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1253.8696686351707,
+          422.6439468503937
+        ],
+        [
+          1352.469160104987,
+          667.3740977690288
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2003.3057742782153,
+          892.2961778215223
+        ],
+        [
+          2097.804215879265,
+          1038.816437007874
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame18_school_picnic_area.jpg",
+  "imageData": null,
+  "imageHeight": 1964,
+  "imageWidth": 3024
+}

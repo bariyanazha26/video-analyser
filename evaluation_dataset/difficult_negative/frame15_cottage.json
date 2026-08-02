@@ -1,0 +1,28 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          845.2691761363636,
+          221.02272727272728
+        ],
+        [
+          960.0152698863636,
+          703.7109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "frame15_cottage.jpg",
+  "imageData": null,
+  "imageHeight": 1700,
+  "imageWidth": 2291
+}
