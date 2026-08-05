@@ -26,15 +26,23 @@ CONF_THRESHOLD = 0.25
 
 MODELS = {
     "yolov8s": {
+        "type": "yolo",
         "weights": "yolov8s.pt",
     },
     "yolov8m": {
+        "type": "yolo",
         "weights": "yolov8m.pt",
     },
     "yolov8l": {
+        "type": "yolo",
         "weights": "yolov8l.pt",
     },
     "yolo11m": {
+        "type": "yolo",
         "weights": "yolo11m.pt",
+    },
+    "grounding_dino": {
+        "type": "grounding_dino",
+        "model_id": "IDEA-Research/grounding-dino-base",
     },
 }
