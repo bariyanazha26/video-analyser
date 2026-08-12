@@ -3,15 +3,15 @@
   "flags": {},
   "shapes": [
     {
-      "label": "person",
+      "label": "vehicle",
       "points": [
         [
-          718.86,
-          319.71
+          922.73,
+          335.44
         ],
         [
-          778.84,
-          446.53
+          1431.49,
+          584.24
         ]
       ],
       "group_id": null,
@@ -24,8 +24,8 @@
       "label": "person",
       "points": [
         [
-          710.29,
-          432.82
+          676.5,
+          397.2
         ],
         [
           809.69,
@@ -39,15 +39,51 @@
       "mask": null
     },
     {
+      "label": "vehicle",
+      "points": [
+        [
+          1026.71,
+          227.75
+        ],
+        [
+          1327.51,
+          376.29
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
       "label": "person",
       "points": [
         [
-          614.32,
-          523.66
+          713.23,
+          315.96
         ],
         [
-          763.42,
-          900.7
+          773.21,
+          442.78
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          606.84,
+          495.51
+        ],
+        [
+          776.56,
+          940.11
         ]
       ],
       "group_id": null,

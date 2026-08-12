@@ -4,28 +4,46 @@ import json
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 
-COCO_JSON = (
-    PROJECT_DIR
-    / "finetuning_dataset"
-    / "instances_Train.json"
-)
-
-OUTPUT_DIR = (
-    PROJECT_DIR
-    / "finetuning_dataset"
-    / "people"
-)
+DATASET_DIR = PROJECT_DIR / "finetuning_dataset"
 
 
-def main():
-    with COCO_JSON.open(
+DATASETS = {
+    "people": {
+        "coco_json": DATASET_DIR / "people_annotations.json",
+        "output_dir": DATASET_DIR / "people",
+    },
+    "animals": {
+        "coco_json": DATASET_DIR / "animals_annotations.json",
+        "output_dir": DATASET_DIR / "animals",
+    },
+    "negative": {
+        "coco_json": DATASET_DIR / "negative_annotations.json",
+        "output_dir": DATASET_DIR / "negative",
+    },
+}
+
+
+def convert_dataset(name, coco_json, output_dir):
+    print("\n" + "=" * 60)
+    print(name.upper())
+    print("=" * 60)
+
+    if not coco_json.exists():
+        print(f"Missing COCO file: {coco_json}")
+        return 0
+
+    if not output_dir.exists():
+        print(f"Missing output folder: {output_dir}")
+        return 0
+
+    with coco_json.open(
         "r",
         encoding="utf-8",
     ) as file:
         coco = json.load(file)
 
     categories = {
-        category["id"]: category["name"]
+        category["id"]: category["name"].strip().lower()
         for category in coco["categories"]
     }
 
@@ -47,10 +65,18 @@ def main():
     converted_count = 0
 
     for image_id, image_info in images.items():
-        image_name = image_info["file_name"]
+        image_name = Path(
+            image_info["file_name"]
+        ).name
 
-        image_path = OUTPUT_DIR / image_name
+        image_path = output_dir / image_name
         json_path = image_path.with_suffix(".json")
+
+        if not image_path.exists():
+            print(
+                f"Warning: image not found: "
+                f"{image_name}"
+            )
 
         shapes = []
 
@@ -58,9 +84,16 @@ def main():
             image_id,
             [],
         ):
-            category_name = categories[
-                annotation["category_id"]
-            ]
+            category_id = annotation["category_id"]
+
+            if category_id not in categories:
+                print(
+                    f"Warning: unknown category ID "
+                    f"{category_id} in {image_name}"
+                )
+                continue
+
+            category_name = categories[category_id]
 
             x, y, width, height = annotation["bbox"]
 
@@ -117,8 +150,30 @@ def main():
 
     print()
     print(
-        f"Conversion complete. "
+        f"{name}: "
         f"{converted_count} JSON files created."
+    )
+
+    return converted_count
+
+
+def main():
+    total_converted = 0
+
+    for name, config in DATASETS.items():
+        total_converted += convert_dataset(
+            name=name,
+            coco_json=config["coco_json"],
+            output_dir=config["output_dir"],
+        )
+
+    print("\n" + "=" * 60)
+    print("CONVERSION SUMMARY")
+    print("=" * 60)
+
+    print(
+        f"Total JSON files created: "
+        f"{total_converted}"
     )
 
 

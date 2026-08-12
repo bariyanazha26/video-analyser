@@ -1,0 +1,28 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          602.11,
+          2.17
+        ],
+        [
+          716.99,
+          111.08
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "negative_20.jpg",
+  "imageData": null,
+  "imageHeight": 1142,
+  "imageWidth": 1530
+}

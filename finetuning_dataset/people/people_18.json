@@ -6,30 +6,12 @@
       "label": "person",
       "points": [
         [
-          194.16,
-          111.58
+          398.6,
+          115.1
         ],
         [
-          230.06,
-          205.24
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "person",
-      "points": [
-        [
-          132.5,
-          106.12
-        ],
-        [
-          152.79,
-          183.39
+          441.0,
+          242.3
         ]
       ],
       "group_id": null,
@@ -60,48 +42,66 @@
       "label": "person",
       "points": [
         [
-          403.33,
-          124.07
-        ],
-        [
-          439.23,
-          231.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "person",
-      "points": [
-        [
-          532.11,
-          113.92
-        ],
-        [
-          572.69,
-          278.6
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "person",
-      "points": [
-        [
-          486.84,
-          113.92
+          471.3,
+          99.6
         ],
         [
           520.4,
           309.82
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          511.2,
+          112.1
+        ],
+        [
+          578.7,
+          284.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          132.5,
+          101.9
+        ],
+        [
+          154.6,
+          188.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          191.2,
+          103.8
+        ],
+        [
+          230.66,
+          209.4
         ]
       ],
       "group_id": null,

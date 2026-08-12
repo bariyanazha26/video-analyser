@@ -8,6 +8,7 @@ DATASET_DIR = PROJECT_DIR / "finetuning_dataset"
 VALID_LABELS = {
     "person",
     "cat",
+    "vehicle",
     "dog",
 }
 

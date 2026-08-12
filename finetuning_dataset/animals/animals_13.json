@@ -1,0 +1,46 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          81.53,
+          981.05
+        ],
+        [
+          408.03,
+          1137.34
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          282.69,
+          789.16
+        ],
+        [
+          587.54,
+          1010.45
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animals_13.jpg",
+  "imageData": null,
+  "imageHeight": 1142,
+  "imageWidth": 1152
+}

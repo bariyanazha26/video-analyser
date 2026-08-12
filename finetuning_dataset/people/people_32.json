@@ -6,12 +6,30 @@
       "label": "person",
       "points": [
         [
-          43.24,
-          177.22
+          166.81,
+          159.01
         ],
         [
-          61.45,
-          298.19
+          203.89,
+          299.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          67.3,
+          149.9
+        ],
+        [
+          95.92,
+          312.5
         ]
       ],
       "group_id": null,
@@ -78,47 +96,11 @@
       "label": "person",
       "points": [
         [
-          67.3,
-          166.16
+          222.1,
+          196.1
         ],
         [
-          95.92,
-          312.5
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "person",
-      "points": [
-        [
-          166.81,
-          159.01
-        ],
-        [
-          203.89,
-          299.5
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "person",
-      "points": [
-        [
-          226.0,
-          205.19
-        ],
-        [
-          246.81,
+          242.91,
           272.18
         ]
       ],
@@ -132,12 +114,30 @@
       "label": "person",
       "points": [
         [
-          249.41,
-          187.63
+          34.8,
+          175.3
         ],
         [
-          280.63,
-          294.94
+          61.45,
+          298.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          392.5,
+          105.7
+        ],
+        [
+          481.61,
+          404.21
         ]
       ],
       "group_id": null,
@@ -151,11 +151,11 @@
       "points": [
         [
           292.34,
-          196.73
+          194.8
         ],
         [
           321.61,
-          284.54
+          293.0
         ]
       ],
       "group_id": null,
@@ -168,12 +168,12 @@
       "label": "person",
       "points": [
         [
-          412.67,
-          128.44
+          249.41,
+          181.1
         ],
         [
-          481.61,
-          404.21
+          280.63,
+          294.94
         ]
       ],
       "group_id": null,

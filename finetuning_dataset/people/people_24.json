@@ -7,11 +7,29 @@
       "points": [
         [
           1013.48,
-          480.6
+          465.2
         ],
         [
           1142.5,
           840.49
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1422.4,
+          475.3
+        ],
+        [
+          1544.83,
+          848.98
         ]
       ],
       "group_id": null,
@@ -30,24 +48,6 @@
         [
           252.95,
           629.99
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "person",
-      "points": [
-        [
-          1439.58,
-          497.58
-        ],
-        [
-          1544.83,
-          848.98
         ]
       ],
       "group_id": null,

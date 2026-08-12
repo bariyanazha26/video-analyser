@@ -1,0 +1,28 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          345.61,
+          336.3
+        ],
+        [
+          674.17,
+          653.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animals_17.jpg",
+  "imageData": null,
+  "imageHeight": 1212,
+  "imageWidth": 2148
+}

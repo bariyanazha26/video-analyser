@@ -1,0 +1,28 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          1713.65,
+          0.53
+        ],
+        [
+          2126.95,
+          186.52
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "negative_15.jpg",
+  "imageData": null,
+  "imageHeight": 1308,
+  "imageWidth": 2424
+}
