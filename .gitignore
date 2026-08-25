@@ -63,3 +63,19 @@ video_benchmark/annotated/
 
 # Benchmark videos
 video_benchmark/videos/
+
+# Fine-tuning generated outputs
+finetuning_results/
+
+# Temporary / exported annotation archives
+finetuning_dataset/**/*.zip
+
+# Benchmark video clips
+finetuning_dataset/video_clips/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
