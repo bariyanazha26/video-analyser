@@ -1,0 +1,226 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          683.7456948946516,
+          456.9699655591571
+        ],
+        [
+          790.2907212317666,
+          690.9777653970826
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1358.8532994053064,
+          548.9345551235133
+        ],
+        [
+          1453.9506518755718,
+          653.1703167886551
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1321.434783851784,
+          487.74259492223246
+        ],
+        [
+          1401.0536653705399,
+          615.0120082342178
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          1334.5187557182069,
+          593.6652275846295
+        ],
+        [
+          1453.9863906678866,
+          678.1946191674291
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          1239.4535681610248,
+          560.2244396157365
+        ],
+        [
+          1352.902790484904,
+          683.7305580969809
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          857.7704139981702,
+          580.9207742451968
+        ],
+        [
+          918.6407250686184,
+          638.095694190302
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          542.4613449222322,
+          489.2936585086917
+        ],
+        [
+          607.452338746569,
+          631.3303408051236
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          615.0519660725454,
+          526.7380003126955
+        ],
+        [
+          658.0378166041276,
+          605.849945278299
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          227.38780096935596,
+          518.119332395247
+        ],
+        [
+          284.6330519074423,
+          634.5397514071294
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          651.1560741088181,
+          567.4763524077549
+        ],
+        [
+          709.3345254846779,
+          610.6967245153221
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          446.63860225140724,
+          572.5894113508443
+        ],
+        [
+          481.2134341776111,
+          615.7316095997498
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          486.95188398999386,
+          538.5080519074422
+        ],
+        [
+          532.6371755784867,
+          614.3977681363352
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "additional_24.jpg",
+  "imageData": null,
+  "imageHeight": 1070,
+  "imageWidth": 1906
+}

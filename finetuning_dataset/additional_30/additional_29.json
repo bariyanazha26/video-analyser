@@ -1,0 +1,208 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          1183.9472113715278,
+          269.68299696180554
+        ],
+        [
+          1363.8517252604165,
+          640.3291558159722
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1632.0062934027776,
+          307.28743489583337
+        ],
+        [
+          1765.4766167534722,
+          620.6148003472222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1523.9401584201387,
+          375.24669053819434
+        ],
+        [
+          1674.1544596354165,
+          740.8337131076388
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1316.8614366319443,
+          933.3385959201388
+        ],
+        [
+          1557.0890299479165,
+          1141.4549153645833
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1532.051052517361,
+          907.4461263020831
+        ],
+        [
+          1728.9369032118054,
+          1136.7416449652778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2.198079427083499,
+          526.6274414062499
+        ],
+        [
+          133.6542426215279,
+          1079.72802734375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          491.40163845486126,
+          79.51101345486111
+        ],
+        [
+          625.8417426215279,
+          453.7446831597222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          643.9081488715279,
+          127.67453342013889
+        ],
+        [
+          781.3118489583335,
+          497.5068901909722
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          765.5647786458335,
+          92.4301215277778
+        ],
+        [
+          875.1093207465278,
+          452.61214192708326
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          943.4076605902778,
+          130.48893229166666
+        ],
+        [
+          1065.3084309895833,
+          488.8127712673611
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          981.5953233506946,
+          172.77273220486111
+        ],
+        [
+          1199.416232638889,
+          510.1411675347222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "additional_29.jpg",
+  "imageData": null,
+  "imageHeight": 1142,
+  "imageWidth": 2040
+}
