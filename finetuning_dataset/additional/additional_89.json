@@ -1,0 +1,46 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          951.153348941368,
+          172.68861970684037
+        ],
+        [
+          1032.6374694625408,
+          330.1728420195439
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dog",
+      "points": [
+        [
+          652.0961929967426,
+          270.30033591205205
+        ],
+        [
+          747.0740533387622,
+          327.4944523615635
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "additional_89.jpg",
+  "imageData": null,
+  "imageHeight": 1064,
+  "imageWidth": 1914
+}

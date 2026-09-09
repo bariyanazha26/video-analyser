@@ -123,8 +123,7 @@ def main():
         "people",
         "animals",
         "negative",
-        "additional_30",
-
+        "additional",
     ]
 
     totals = {
