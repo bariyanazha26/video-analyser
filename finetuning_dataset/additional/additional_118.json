@@ -1,0 +1,28 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          597.1998496563573,
+          497.7030176116839
+        ],
+        [
+          833.5548217353951,
+          1127.119362113402
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "additional_118.jpg",
+  "imageData": null,
+  "imageHeight": 1308,
+  "imageWidth": 2022
+}

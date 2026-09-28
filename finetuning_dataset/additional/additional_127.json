@@ -1,0 +1,28 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          1416.8031161473089,
+          898.8082064447592
+        ],
+        [
+          1570.5798955382436,
+          682.7472114022663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "additional_127.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1596
+}
