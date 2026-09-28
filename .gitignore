@@ -84,3 +84,5 @@ __pycache__/
 yolo_finetune/
 finetuning_runs/
 runs/
+
+.gradle/
