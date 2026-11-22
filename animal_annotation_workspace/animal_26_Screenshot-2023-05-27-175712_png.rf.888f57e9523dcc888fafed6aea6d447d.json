@@ -1,0 +1,27 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          639.87,
+          223.07999999999996
+        ],
+        [
+          764.6700000000001,
+          315.96
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "animal_26_Screenshot-2023-05-27-175712_png.rf.888f57e9523dcc888fafed6aea6d447d.jpg",
+  "imageData": null,
+  "imageHeight": 634,
+  "imageWidth": 1125
+}

@@ -1,0 +1,46 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          379.0,
+          378.5
+        ],
+        [
+          473.0,
+          455.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          601.4268134715026,
+          222.92341321243524
+        ],
+        [
+          689.0603950777202,
+          283.0351360103627
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animal_28_objects365_v2_02062188_jpg.rf.c09047941453f0ae94fe527e2ff36864.jpg",
+  "imageData": null,
+  "imageHeight": 768,
+  "imageWidth": 1024
+}

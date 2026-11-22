@@ -86,3 +86,9 @@ finetuning_runs/
 runs/
 
 .gradle/
+
+external_datasets/
+
+# YOLO fine-tuning datasets: keep labels and configs, exclude images
+yolo_finetune_594/images/
+yolo_finetune_594_clean/images/

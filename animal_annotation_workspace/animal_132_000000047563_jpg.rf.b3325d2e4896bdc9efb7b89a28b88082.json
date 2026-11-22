@@ -1,0 +1,64 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          189.485,
+          287.26000000000005
+        ],
+        [
+          264.675,
+          345.44
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cat",
+      "points": [
+        [
+          335.68000000000006,
+          291.73
+        ],
+        [
+          390.46,
+          345.25000000000006
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          213.90760114268068,
+          32.96579678814082
+        ],
+        [
+          453.202208153181,
+          248.70950432365657
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animal_132_000000047563_jpg.rf.b3325d2e4896bdc9efb7b89a28b88082.jpg",
+  "imageData": null,
+  "imageHeight": 423,
+  "imageWidth": 640
+}

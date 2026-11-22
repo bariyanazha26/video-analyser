@@ -1,0 +1,64 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          300.26,
+          312.905
+        ],
+        [
+          380.6,
+          365.7749999999999
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          249.8745367510809,
+          202.67879478072882
+        ],
+        [
+          311.86785824583075,
+          351.39134882643606
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          283.1343614885732,
+          210.24278103767756
+        ],
+        [
+          313.7280921865349,
+          294.1463287523162
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animal_176_000000079244_jpg.rf.1bfd7f763bdbdc0ad9fd7ceb8df60f29.jpg",
+  "imageData": null,
+  "imageHeight": 427,
+  "imageWidth": 640
+}

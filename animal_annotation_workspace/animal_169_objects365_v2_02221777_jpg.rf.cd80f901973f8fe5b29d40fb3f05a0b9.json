@@ -1,0 +1,100 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          94.5,
+          158.99999999999997
+        ],
+        [
+          231.5,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          374.3495867519305,
+          100.0432553088803
+        ],
+        [
+          403.6162976592664,
+          185.04943894787644
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          436.6384381032818,
+          4.023407335907335
+        ],
+        [
+          492.4985672055984,
+          32.258883325289574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          363.92223696911196,
+          2.3266771235521233
+        ],
+        [
+          414.6148799469112,
+          27.379841336872584
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          284.996003257722,
+          1.5650337837837842
+        ],
+        [
+          335.50577642374515,
+          24.01088923745174
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animal_169_objects365_v2_02221777_jpg.rf.cd80f901973f8fe5b29d40fb3f05a0b9.jpg",
+  "imageData": null,
+  "imageHeight": 334,
+  "imageWidth": 500
+}

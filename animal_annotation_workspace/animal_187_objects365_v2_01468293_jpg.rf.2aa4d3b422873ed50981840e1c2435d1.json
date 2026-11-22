@@ -1,0 +1,27 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          264.99999999999994,
+          248.00000000000003
+        ],
+        [
+          314.0,
+          297.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "animal_187_objects365_v2_01468293_jpg.rf.2aa4d3b422873ed50981840e1c2435d1.jpg",
+  "imageData": null,
+  "imageHeight": 333,
+  "imageWidth": 500
+}

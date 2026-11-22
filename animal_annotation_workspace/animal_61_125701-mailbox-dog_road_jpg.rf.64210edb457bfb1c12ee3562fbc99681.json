@@ -1,0 +1,100 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          1094.0,
+          1085.0
+        ],
+        [
+          1433.0,
+          1517.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          1741.362012987013,
+          331.9155844155844
+        ],
+        [
+          2192.4388693451833,
+          1520.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          2269.3449675324673,
+          356.35754870129875
+        ],
+        [
+          2681.9768668831166,
+          1514.4744318181818
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          1303.3141233766235,
+          120.05478896103904
+        ],
+        [
+          2231.276785714286,
+          696.6578733766235
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          2297.125,
+          178.1107954545455
+        ],
+        [
+          2678.9228896103896,
+          737.2422889610391
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animal_61_125701-mailbox-dog_road_jpg.rf.64210edb457bfb1c12ee3562fbc99681.jpg",
+  "imageData": null,
+  "imageHeight": 1520,
+  "imageWidth": 2688
+}

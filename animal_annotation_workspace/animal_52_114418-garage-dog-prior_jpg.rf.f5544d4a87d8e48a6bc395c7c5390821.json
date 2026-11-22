@@ -1,0 +1,46 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "points": [
+        [
+          1104.0,
+          1359.9999999999998
+        ],
+        [
+          1708.0,
+          1944.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "vehicle",
+      "points": [
+        [
+          1687.8040518372704,
+          241.89009186351706
+        ],
+        [
+          2592.0,
+          1714.0973731093732
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animal_52_114418-garage-dog-prior_jpg.rf.f5544d4a87d8e48a6bc395c7c5390821.jpg",
+  "imageData": null,
+  "imageHeight": 1944,
+  "imageWidth": 2592
+}

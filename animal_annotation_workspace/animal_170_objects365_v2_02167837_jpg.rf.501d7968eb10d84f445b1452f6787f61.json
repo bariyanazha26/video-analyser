@@ -1,0 +1,46 @@
+{
+  "version": "7.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          199.0,
+          115.50000000000001
+        ],
+        [
+          355.00000000000006,
+          267.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          473.74944648279353,
+          79.83892649291498
+        ],
+        [
+          409.22515498481783,
+          2.0559210526315788
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "animal_170_objects365_v2_02167837_jpg.rf.501d7968eb10d84f445b1452f6787f61.jpg",
+  "imageData": null,
+  "imageHeight": 375,
+  "imageWidth": 500
+}

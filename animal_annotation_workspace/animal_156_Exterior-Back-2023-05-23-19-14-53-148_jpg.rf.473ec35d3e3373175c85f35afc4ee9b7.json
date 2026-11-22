@@ -1,0 +1,44 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          2386.255,
+          1346.2549999999999
+        ],
+        [
+          2710.005,
+          1470.005
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cat",
+      "points": [
+        [
+          2652.505,
+          1949.9999999999998
+        ],
+        [
+          2871.255,
+          2160.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "animal_156_Exterior-Back-2023-05-23-19-14-53-148_jpg.rf.473ec35d3e3373175c85f35afc4ee9b7.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

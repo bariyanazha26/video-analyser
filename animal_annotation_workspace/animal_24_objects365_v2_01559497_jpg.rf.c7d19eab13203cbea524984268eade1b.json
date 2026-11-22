@@ -1,0 +1,44 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          352.5,
+          121.5
+        ],
+        [
+          486.5,
+          163.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cat",
+      "points": [
+        [
+          60.0,
+          97.5
+        ],
+        [
+          198.0,
+          160.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "animal_24_objects365_v2_01559497_jpg.rf.c7d19eab13203cbea524984268eade1b.jpg",
+  "imageData": null,
+  "imageHeight": 332,
+  "imageWidth": 500
+}

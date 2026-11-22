@@ -1,0 +1,27 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          2200.0,
+          622.495
+        ],
+        [
+          2417.5,
+          834.1650000000002
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "animal_198_Kitchen-2023-05-27-04-51-52-916_jpg.rf.34fa3a6fdea0d2be643863ef22b554ab.jpg",
+  "imageData": null,
+  "imageHeight": 1520,
+  "imageWidth": 2688
+}

@@ -1,0 +1,10 @@
+path: /Users/bariyanazha/Optara Internship/video-analyser/yolo_finetune_594_clean
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: vehicle
+  2: cat
+  3: dog

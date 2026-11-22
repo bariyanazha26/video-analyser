@@ -1,0 +1,27 @@
+{
+  "version": "5.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          168.8,
+          397.395
+        ],
+        [
+          271.9,
+          502.425
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "animal_21_000000231374_jpg.rf.999026c854d8797cdbfab1dc0b2f985a.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 427
+}
